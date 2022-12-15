@@ -76,6 +76,5 @@ def main():
     print(f"Total score following second plan: {score}")
 
 
-
 if __name__ == "__main__":
     main()
